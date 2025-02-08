@@ -30,7 +30,7 @@
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/SublimateTheBerry/pinfetch.git
-cd system-info
+cd pinfetch
 
 # Собрать проект (требуется Rust 1.60+)
 cargo build --release
